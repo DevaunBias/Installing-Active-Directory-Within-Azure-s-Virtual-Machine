@@ -21,32 +21,84 @@ Project consists of using Microsoft's cloud platform Azure. To create a Virtual 
 <h2>Installation walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Login to you Azure account and proceed to the Virtual Machine tab: <br/>
+<img src="https://i.imgur.com/1rdUcB1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xHP846z.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eLf424d.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/thYOeyW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iPCjbkp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WrKqUCm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oQq2RKv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/jSvHBNF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/AqpO9rN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/3flwwW8.jp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/XV5gOKq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/aigUC97.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/rLN4RsJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/nzP2OqY.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/XSCsAa8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/M7xzwSu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/xHioQIz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/wwFHheL.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/xPOQQ2o.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/I4DOkLI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
