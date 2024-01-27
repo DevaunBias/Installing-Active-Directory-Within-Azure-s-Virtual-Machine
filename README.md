@@ -16,7 +16,8 @@ Project consists of using Microsoft's cloud platform Azure. To create a Virtual 
 - <b>Windows 10</b> (22H2)
 - <b>Windows Server 2022</b> (x64 Gen2)
 - <b>Azure Virtual Machine</b>
-- <b>Active Directory</b> 
+- <b>Remote Desktop</b>
+- <b>Active Directory Domain Services</b> 
 
 <h2>Installation walk-through:</h2>
 
