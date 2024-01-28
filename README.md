@@ -68,7 +68,7 @@ Navigate to the Remote Desktop Application by typing it in the Windows Search Ba
 <br />
 <br />
  Enter the Username and Password you created for the Virtual Machine:  <br/>
-<img src="https://i.imgur.com/3flwwW8.jp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3flwwW8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Wait while the Virtual Machine sets up, Once finished loading Windows Server will appear. Select Add Roles & Features:  <br/>
