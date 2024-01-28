@@ -35,79 +35,79 @@ Login to you Azure account and proceed to the Virtual Machine tab: <br/>
 <img src="https://i.imgur.com/1rdUcB1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the Create:  <br/>
+Select Create in the menu bar:  <br/>
 <img src="https://i.imgur.com/xHP846z.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Fill out the "Project Details": <br/>
 <img src="https://i.imgur.com/eLf424d.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Select which image the Virtual Machine will be running:  <br/>
 <img src="https://i.imgur.com/thYOeyW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Select your username and password for the account:  <br/>
 <img src="https://i.imgur.com/iPCjbkp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Select Review + Create at the bottom left:  <br/>
 <img src="https://i.imgur.com/WrKqUCm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Once Validation has passed, select Create:  <br/>
 <img src="https://i.imgur.com/oQq2RKv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Wait for process to complete, select the newly made Virtual Machine and copy it's public IP Address:  <br/>
 <img src="https://i.imgur.com/jSvHBNF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Navigate to the Remote Desktop Application by typing it in the Windows Search Bar. Paste the IP Address in the computer slot:  <br/>
 <img src="https://i.imgur.com/AqpO9rN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Enter the Username and Password you created for the Virtual Machine:  <br/>
 <img src="https://i.imgur.com/3flwwW8.jp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Wait while the Virtual Machine sets up, Once finished loading Windows Server will appear. Select Add Roles & Features:  <br/>
 <img src="https://i.imgur.com/XV5gOKq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Press Next on the installation guide until you reach select server roles. Here is where you'll click Active Directory Domain Services:  <br/>
 <img src="https://i.imgur.com/aigUC97.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Confirm settings are correct and install:  <br/>
 <img src="https://i.imgur.com/rLN4RsJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Let Active Directory finish installing. Windows Server should appear like this. Click the caution logo, top right of the application:  <br/>
 <img src="https://i.imgur.com/nzP2OqY.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ To finish Active Directory, we must promote it to a domain server:  <br/>
 <img src="https://i.imgur.com/XSCsAa8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Add a new forrest and give the server a domain name. I used mydomain.com:  <br/>
 <img src="https://i.imgur.com/M7xzwSu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Continue by pressing next and then install:  <br/>
 <img src="https://i.imgur.com/xHioQIz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ When the process is finished, the Virtual Machine will restart. You will have to reconnect, the username will now be the domain name you've chosen, backslash the original username from before:  <br/>
 <img src="https://i.imgur.com/wwFHheL.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ The Virtual Machine and Windows Server will load again. You can now go to Tools > Active Directory Users and Computers:  <br/>
 <img src="https://i.imgur.com/xPOQQ2o.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Sanitization complete:  <br/>
+ Active Directory is complete. Configure, test out any features you want:  <br/>
 <img src="https://i.imgur.com/I4DOkLI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
