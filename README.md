@@ -1,6 +1,15 @@
-<h1>Installing Active Directory Within Azure's Virtual Machine</h1>
+ <h1><p align="center"> 
+ INSTALLING ACTIVE DIRECTORY WITHIN AZURE'S VIRTUAL MACHINE
+ </p><h1>
 
- ### [YouTube Demonstration](https://youtu.be/DDd8cXXhgTQ)
+
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
+ 
+ [YouTube Demonstration](https://youtu.be/DDd8cXXhgTQ)
+ 
 
 <h2>Description</h2>
 Project consists of using Microsoft's cloud platform Azure. To create a Virtual Machine that will be running Windows Server 2022. With this Virtual Machine, we will be able to install Active Directory and make it a Domain Controller. The steps are very easy to understand and simple. You will only need either a paid or free account with Azure.
@@ -26,7 +35,7 @@ Login to you Azure account and proceed to the Virtual Machine tab: <br/>
 <img src="https://i.imgur.com/1rdUcB1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Select the Create:  <br/>
 <img src="https://i.imgur.com/xHP846z.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
